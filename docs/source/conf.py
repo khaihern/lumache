@@ -17,8 +17,6 @@ import pathlib
 import sys
 sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
-import furo
-
 
 # -- Project information -----------------------------------------------------
 
